@@ -88,7 +88,7 @@ python cropper.py --save_dir data/ --timestamp_dir resource/timestamp --num_work
 
 The dataset is licensed under the **CC BY-NC-SA 4.0** license. This means that you can share and adapt the dataset for non-commercial purposes as long as you provide appropriate attribution and distribute your contributions under the same license. Detailed terms can be found [here](LICENSE).
 
-Important Note: The metadata provided is accurate as of June 2023. We cannot guarantee the availability of videos on the YouTube platform in the future. We recommend downloading the dataset promptly. For YouTube users with concerns regarding their videos' inclusion in our dataset, please contact us via E-mail.
+Important Note: The metadata provided is accurate as of June 2023. We cannot guarantee the availability of videos on the YouTube platform in the future. We recommend downloading the dataset promptly. For YouTube users with concerns regarding their videos' inclusion in our dataset, please contact us via E-mail: yuke.lin@dukekunshan.edu.cn or ming.li369@dukekunshan.edu.cn.
 
 
 
