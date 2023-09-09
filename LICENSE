@@ -1,0 +1,24 @@
+LICENSE FOR THE VoxBlink DATASET
+
+Description:
+The VoxBlink dataset is an audio-visual dataset captured automatically from users who upload short videos on the YouTube platform. It comprises over 1.4M utterances from over 38K speakers. A clean version, termed VoxBlink-clean, contains 18k individuals and 1.02M utterances. Owing to its collection from diverse sources, VoxBlink inherently exhibits cross-age, cross-lingual, cross-channel, and cross-device attributes. As an audio-visual dataset, it has potential uses in a variety of applications. For more, please see https://voxblink.github.io. 
+
+License:
+The data falls under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. More details on this license can be viewed at https://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+By downloading or using this dataset, you agree to abide by the terms of the CC BY-NC-SA 4.0 license, including any modifications or redistributions in any form.
+
+Disclaimer:
+THIS DATASET IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Citation:
+If you use this dataset in your research or projects, please cite the following reference:
+
+@misc{lin2023voxblink,
+      title={VoxBlink: A Large Scale Speaker Verification Dataset on Camera}, 
+      author={Yuke Lin and Xiaoyi Qin and Ming Cheng and Ning Jiang and Guoqing Zhao and Ming Li},
+      year={2023},
+      eprint={2308.07056},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS}
+}
